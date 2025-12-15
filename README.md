@@ -106,4 +106,4 @@ Inspired by npm audit limitations and Dependabot pains. Built with ❤️ for th
 ---
 
 *Version 1.0.0 | Built on December 15, 2025*  
-[GitHub Repo](https://github.com/yourusername/dep-audit) | [npm](https://www.npmjs.com/package/dep-audit)
+[GitHub Repo](https://github.com/hemant-dev-8/dep-audit) | [npm](https://www.npmjs.com/package/dep-audit)
